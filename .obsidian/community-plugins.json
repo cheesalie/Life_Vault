@@ -1,6 +1,5 @@
 [
   "github-sync",
-  "obsidian-git",
   "iconic",
   "manual-sorting",
   "folder-notes",
@@ -18,5 +17,6 @@
   "image-captions",
   "obsidian-image-toolkit",
   "pdf-plus",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-git"
 ]
