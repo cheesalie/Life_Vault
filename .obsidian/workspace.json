@@ -6,7 +6,6 @@
       {
         "id": "ac4703dd7dc80618",
         "type": "tabs",
-        "dimension": 81.47208121827411,
         "children": [
           {
             "id": "2aa64a28c61038ee",
@@ -14,29 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/Заметки.md",
+                "file": "Заметки/14.10.2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заметки"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f87f429b213d2315",
-        "type": "tabs",
-        "dimension": 18.527918781725887,
-        "children": [
-          {
-            "id": "9826468767a78f9e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "14.10.2026"
             }
           }
         ]
@@ -146,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Заметки.md",
+                "file": "Заметки/14.10.2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -154,14 +136,56 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "49ea3ff0470077f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Заметки/14.10.2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "6ab926c44103c6d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Заметки/14.10.2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "9826468767a78f9e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +211,10 @@
   },
   "active": "2aa64a28c61038ee",
   "lastOpenFiles": [
-    "Наука/Астрономия/Астрономия.md",
+    "Наука/Наука.md",
+    "Заметки/14.10.2026.md",
     "Заметки/Заметки.md",
-    "Calendar/Calendar.md",
-    "Наука/Наука.md"
+    "Наука/Астрономия/Астрономия.md",
+    "Calendar/Calendar.md"
   ]
 }
