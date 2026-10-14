@@ -4,6 +4,22 @@
     "type": "split",
     "children": [
       {
+        "id": "47cfc605959f5236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9826468767a78f9e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      },
+      {
         "id": "ac4703dd7dc80618",
         "type": "tabs",
         "children": [
@@ -136,23 +152,14 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
-          },
-          {
-            "id": "9826468767a78f9e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +183,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2aa64a28c61038ee",
+  "active": "9826468767a78f9e",
   "lastOpenFiles": [
     "Calendar/Calendar.md",
     "Наука/Астрономия/Астрономия.md",
