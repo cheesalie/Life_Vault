@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Наука/Астрономия/Астрономия.md",
+                "file": "Заметки/Заметки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Астрономия"
+              "title": "Заметки"
             }
           }
         ]
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Наука/Астрономия/Астрономия.md",
+                "file": "Заметки/Заметки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,8 +187,9 @@
   },
   "active": "2aa64a28c61038ee",
   "lastOpenFiles": [
-    "Calendar/Calendar.md",
     "Наука/Астрономия/Астрономия.md",
+    "Заметки/Заметки.md",
+    "Calendar/Calendar.md",
     "Наука/Наука.md"
   ]
 }

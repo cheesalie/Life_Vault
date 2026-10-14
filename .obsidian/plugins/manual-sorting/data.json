@@ -3,13 +3,14 @@
     "/": {
       "children": [
         "Заметки",
-        "Наука",
-        "Calendar"
+        "Наука"
       ],
       "sortOrder": "custom"
     },
     "Заметки": {
-      "children": [],
+      "children": [
+        "Заметки/Заметки.md"
+      ],
       "sortOrder": "custom"
     },
     "Наука": {
@@ -20,7 +21,6 @@
         "Наука/Математика",
         "Наука/Физика",
         "Наука/Химия",
-        "Наука/Templates",
         "Наука/Наука.md"
       ],
       "sortOrder": "custom"
@@ -152,20 +152,6 @@
     "Наука/Химия": {
       "children": [
         "Наука/Химия/Химия.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Наука/Templates": {
-      "children": [
-        "Наука/Templates/planet.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Calendar": {
-      "children": [
-        "Calendar/2026-04-14 Написать 1 страницу.md",
-        "Calendar/2026-04-14 Отправить книги.md",
-        "Calendar/Calendar.md"
       ],
       "sortOrder": "custom"
     }
