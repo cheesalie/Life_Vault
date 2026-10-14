@@ -136,9 +136,19 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "9826468767a78f9e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
