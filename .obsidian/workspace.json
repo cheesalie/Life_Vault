@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/14.10.2026.md",
+                "file": "Наука/Наука.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.10.2026"
+              "title": "Наука"
             }
           }
         ]
@@ -199,21 +199,16 @@
       "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false,
       "iconic:Открыть свод правил": false,
-      "templater-obsidian:Templater": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2aa64a28c61038ee",
+  "active": "9826468767a78f9e",
   "lastOpenFiles": [
     "Наука/Наука.md",
-    "Заметки/14.10.2026.md",
     "Заметки/Заметки.md",
+    "Заметки/14.10.2026.md",
     "Наука/Астрономия/Астрономия.md",
     "Calendar/Calendar.md"
   ]
